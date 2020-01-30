@@ -35,10 +35,11 @@ else
 			else if(c1-c2==0)
 			{
 				count=count+1;
-			}
-			else if(count==(len1-2)
+				
+			if(count==(len1-1)
 			{
 				System.out.println("0");
+			}
 			}
 	}
 }
